@@ -1,0 +1,16 @@
+{
+    "name": "shack Cloud",
+    "description": "Directly upload files to Cloud",
+    "repository": "https://github.com/shack-32/shack-cloud",
+    "env": {
+        "GOOGLE_CLIENT_ID": {
+            "description": "Google Project's Client ID"
+        },
+        "GOOGLE_CLIENT_SECRET": {
+            "description": "Google Project's Client Secret"
+        },
+        "GOOGLE_REDIRECT_URL": {
+            "description": "Google Project's Redirect url"
+        }
+    }
+}
